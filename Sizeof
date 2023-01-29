@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+ int main(){
+ 
+ 	int a;
+ 	char b;
+ 	float y;
+  
+ 	printf("Size of int: %d\n",sizeof(a));
+ 	printf("Size of float: %f\n",sizeof(y));
+ 	printf("Size of char: %d\n",sizeof(b));
+ 	
+ 	return 0;
+ }
